@@ -1,0 +1,11 @@
+#display{
+    background-color:aliceblue ;
+    border-style: double;
+    border-color: rgb(127, 182, 255);
+    border-radius: 15px ;
+    border-width: 3px;
+    width: 90%;
+    padding: 10px;
+    height: 50px;
+    text-align: right;
+}
